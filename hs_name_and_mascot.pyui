@@ -1,0 +1,157 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{6, 0}, {528, 70}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "title_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "FCC3AA36-5DCE-4B68-A7B2-16032EE55A2B",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "High School Names & Mascot",
+          "font_size" : 20,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{19, 107}, {209, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "high_school_name_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "0D79B2AA-D24F-492C-BDBA-00AC9C4564F5",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "High School Name:",
+          "font_size" : 20,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{97, 169}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "mascot_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "6660F582-7DD0-44DC-B08E-1A1C4A990271",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Mascot:",
+          "font_size" : 20,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{216, 94}, {318, 59}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "high_school_name_answer_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "BA64AA09-5211-4D44-A7D2-DC6A63F557AE",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 20,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{192, 161}, {318, 55}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "mascot_answer_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "30832BDD-32FD-4DA4-AF7F-9A17C5F21E21",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 20,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{78, 345}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "mths_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "MTHS",
+          "uuid" : "464165E1-3BF6-4A33-9E42-880E91E3EC59",
+          "class" : "Button",
+          "name" : "mths_ button",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{236, 345}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "st_jhs_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "ST.JHS",
+          "class" : "Button",
+          "uuid" : "A216ACDA-0932-4751-8DC3-045840C7FB75",
+          "font_size" : 18,
+          "name" : "st_jhs_ button"
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{376, 345}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "st_mhs_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "ST. MHS",
+          "class" : "Button",
+          "uuid" : "5E765D9F-29F4-403B-A996-5AB54F0D1248",
+          "font_size" : 18,
+          "name" : "st_mhs_button"
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
